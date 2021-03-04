@@ -6,8 +6,4 @@ The model has been commented fully to describe what contribution the specific li
 
 ## Data set used:   https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
-## Google colab notebook : 
-https://colab.research.google.com/drive/1ASuxe_QFl4a62yjJiPJO_IZkmawUHgoF?usp=sharing
-
-
 Happy learning!
